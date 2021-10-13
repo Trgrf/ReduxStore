@@ -1,1 +1,1 @@
-# RegexStore
+# ReduxStore
